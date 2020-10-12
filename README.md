@@ -1,4 +1,4 @@
-### I am a self-taught developer and career changer, having previously worked in Quality Management System and Quality Assurance roles. My specialties include learning new skills, programming languages and frameworks, and problem-solving. So far I have under my belt Python, Django, JavaScript, HTML, CSS and Bootstrap.
+I am a self-taught developer and career changer, having previously worked in Quality Management System and Quality Assurance roles. My specialties include learning new skills, programming languages and frameworks, and problem-solving. So far I have under my belt Python, Django, JavaScript, HTML, CSS and Bootstrap.
 
 <!--
 **MadalinaH/MadalinaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
